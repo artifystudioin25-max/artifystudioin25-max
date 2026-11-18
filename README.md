@@ -22,6 +22,16 @@ I help small businesses look big — logos, branding, websites and UI that are c
 
 Concept work from Artify Studio — Paperfold, Velmara, CORTA, Lumo and Cover Posters. See them all in my portfolio below.
 
+## 📌 Featured project — Lumo
+
+**Lumo — Kids Study App UI** (concept work)
+
+A friendly study-app interface for kids — bright, simple screens designed to make learning feel like play. A concept case study from Artify Studio.
+
+- **What:** UI/UX concept — app screens, colour system, playful type
+- **Tools:** Figma
+- **See it:** in my portfolio (link in the Find me section below)
+
 ## 🔗 Find me
 
 - 🎨 Portfolio: https://muse.ai/s/artify-studio-portfolio-2-xgxh6sxoyxzkxuxyc/sdMve6aYZ49_T679yrB-5aIzp1GNyE8i6dwTqLtnevU
