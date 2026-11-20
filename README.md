@@ -42,6 +42,16 @@ A super-app concept — one clean interface for everyday services, with a logo, 
 - **Tools:** Figma, Photoshop
 - **See it:** in my portfolio (link in the Find me section below)
 
+## 📌 Featured project — Paperfold
+
+**Paperfold — Logo for a London print studio** (concept work)
+
+A logo concept for a London print studio — a folded-paper mark, clean and minimal, built to work from a business card to a shopfront. A concept identity from Artify Studio.
+
+- **What:** Logo / brand identity concept — folded-paper mark, wordmark, stationery feel
+- **Tools:** Photoshop, CorelDRAW
+- **See it:** in my portfolio (link in the Find me section below)
+
 ## 🔗 Find me
 
 - 🎨 Portfolio: https://muse.ai/s/artify-studio-portfolio-2-xgxh6sxoyxzkxuxyc/sdMve6aYZ49_T679yrB-5aIzp1GNyE8i6dwTqLtnevU
