@@ -52,6 +52,16 @@ A logo concept for a London print studio — a folded-paper mark, clean and mini
 - **Tools:** Photoshop, CorelDRAW
 - **See it:** in my portfolio (link in the Find me section below)
 
+## 📌 Featured project — Velmara
+
+**Velmara — Logo for a hotel brand** (concept work)
+
+A logo concept for a hotel brand — an elegant, premium mark built to feel calm and welcoming, from the lobby sign to the booking card. A concept identity from Artify Studio.
+
+- **What:** Logo / brand identity concept — hotel wordmark, elegant mark, premium feel
+- **Tools:** Photoshop, CorelDRAW
+- **See it:** in my portfolio (link in the Find me section below)
+
 ## 🔗 Find me
 
 - 🎨 Portfolio: https://muse.ai/s/artify-studio-portfolio-2-xgxh6sxoyxzkxuxyc/sdMve6aYZ49_T679yrB-5aIzp1GNyE8i6dwTqLtnevU
