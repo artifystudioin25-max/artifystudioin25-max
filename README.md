@@ -62,6 +62,17 @@ A logo concept for a hotel brand — an elegant, premium mark built to feel calm
 - **Tools:** Photoshop, CorelDRAW
 - **See it:** in my portfolio (link in the Find me section below)
 
+## 📌 Featured project — Cover Posters
+
+**Cover Posters — Poster design series** (concept work)
+
+A bold poster-design series — strong type, clean layouts and colour that grabs attention from across the room. A concept series from Artify Studio.
+
+- **What:** Graphic design — poster series, typography, layout, print-ready artwork
+- **Tools:** Photoshop, CorelDRAW
+- **See it:** in my portfolio (link in the Find me section below)
+
+
 ## 🔗 Find me
 
 - 🎨 Portfolio: https://muse.ai/s/artify-studio-portfolio-2-xgxh6sxoyxzkxuxyc/sdMve6aYZ49_T679yrB-5aIzp1GNyE8i6dwTqLtnevU
