@@ -72,6 +72,11 @@ A bold poster-design series — strong type, clean layouts and colour that grabs
 - **Tools:** Photoshop, CorelDRAW
 - **See it:** in my portfolio (link in the Find me section below)
 
+## 🎯 Currently
+
+- **Open to freelance work** — logos, branding, websites & UI/UX for small businesses
+- **Building Artify Studio** — one new design or client project at a time
+- **Posting design daily** — follow along on Instagram [@artify_studio.in](https://www.instagram.com/artify_studio.in)
 
 ## 🔗 Find me
 
