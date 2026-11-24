@@ -18,6 +18,15 @@ I help small businesses look big — logos, branding, websites and UI that are c
 ![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-39B54A?style=flat)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
+## 🏷️ Skills
+
+![Logo Design](https://img.shields.io/badge/-Logo%20Design-FF6B6B?style=flat)
+![Branding](https://img.shields.io/badge/-Branding-4ECDC4?style=flat)
+![UI/UX Design](https://img.shields.io/badge/-UI%2FUX%20Design-6C5CE7?style=flat)
+![Web Design](https://img.shields.io/badge/-Web%20Design-45B7D1?style=flat)
+![Vector Tracing](https://img.shields.io/badge/-Vector%20Tracing-FFA502?style=flat)
+![Poster Design](https://img.shields.io/badge/-Poster%20Design-2ED573?style=flat)
+
 ## ✨ Featured work
 
 Concept work from Artify Studio — Paperfold, Velmara, CORTA, Lumo and Cover Posters. See them all in my portfolio below.
