@@ -86,7 +86,12 @@ A bold poster-design series — strong type, clean layouts and colour that grabs
 - **Open to freelance work** — logos, branding, websites & UI/UX for small businesses
 - **Building Artify Studio** — one new design or client project at a time
 - **Posting design daily** — follow along on Instagram [@artify_studio.in](https://www.instagram.com/artify_studio.in)
+## 🎨 How I work
 
+1. **Understand** — I start with your business, your customers and what the design needs to do.
+2. **Explore** — Sketches and directions, so we pick a direction before the detail work.
+3. **Design** — Clean, usable design in Figma, Photoshop or CorelDRAW.
+4. **Refine & deliver** — Revisions until it feels right, then final files ready to use.
 ## 🔗 Find me
 
 - 🎨 Portfolio: https://muse.ai/s/artify-studio-portfolio-2-xgxh6sxoyxzkxuxyc/sdMve6aYZ49_T679yrB-5aIzp1GNyE8i6dwTqLtnevU
