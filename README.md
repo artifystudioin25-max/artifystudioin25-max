@@ -92,6 +92,13 @@ A bold poster-design series — strong type, clean layouts and colour that grabs
 2. **Explore** — Sketches and directions, so we pick a direction before the detail work.
 3. **Design** — Clean, usable design in Figma, Photoshop or CorelDRAW.
 4. **Refine & deliver** — Revisions until it feels right, then final files ready to use.
+   ## 🤝 Work with me
+
+   Have a project in mind — a logo, a brand refresh, a website or an app screen? Tell me about it.
+
+   - **What I take on** — logos, branding, websites & UI/UX for small businesses
+   - **How to reach me** — DM me on Instagram [@artify_studio.in](https://www.instagram.com/artify_studio.in) or email [sahil@creativeartifystudio.com](mailto:sahil@creativeartifystudio.com)
+   - **First step** — share what you need and I'll reply with honest next steps
 ## 🔗 Find me
 
 - 🎨 Portfolio: https://muse.ai/s/artify-studio-portfolio-2-xgxh6sxoyxzkxuxyc/sdMve6aYZ49_T679yrB-5aIzp1GNyE8i6dwTqLtnevU
