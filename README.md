@@ -99,6 +99,12 @@ A bold poster-design series — strong type, clean layouts and colour that grabs
    - **What I take on** — logos, branding, websites & UI/UX for small businesses
    - **How to reach me** — DM me on Instagram [@artify_studio.in](https://www.instagram.com/artify_studio.in) or email [sahil@creativeartifystudio.com](mailto:sahil@creativeartifystudio.com)
    - **First step** — share what you need and I'll reply with honest next steps
+   ## 🎬 Beyond design
+
+   **Tiny Tales USA** — a kids' story channel on YouTube. Short, fun stories with Foxy the fox and Bunny — happy, a little adventure, and a kind ending.
+
+   - **What:** Kids' stories — Shorts and longer story videos
+   - **Watch:** [Tiny Tales USA on YouTube](https://www.youtube.com/@TinyTalesUSA-s1u)
 ## 🔗 Find me
 
 - 🎨 Portfolio: https://muse.ai/s/artify-studio-portfolio-2-xgxh6sxoyxzkxuxyc/sdMve6aYZ49_T679yrB-5aIzp1GNyE8i6dwTqLtnevU
