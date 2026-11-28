@@ -105,6 +105,13 @@ A bold poster-design series — strong type, clean layouts and colour that grabs
 
    - **What:** Kids' stories — Shorts and longer story videos
    - **Watch:** [Tiny Tales USA on YouTube](https://www.youtube.com/@TinyTalesUSA-s1u)
+   ## 💬 Ask me about
+
+   - **Logos & branding** — how a small business can look big with a clean identity
+   - **UI/UX** — app and website interfaces that are simple to use
+   - **Vector tracing** — turning any image or logo into clean vector art
+   - **My tools** — Photoshop, CorelDRAW & Figma
+   
 ## 🔗 Find me
 
 - 🎨 Portfolio: https://muse.ai/s/artify-studio-portfolio-2-xgxh6sxoyxzkxuxyc/sdMve6aYZ49_T679yrB-5aIzp1GNyE8i6dwTqLtnevU
